@@ -1,6 +1,12 @@
 # Data-Analytics-Foundation
 Data Analytics Foundation<br>
-Contains Tableau data Implementation, Exercises, Projects and Assignments
+Contains Tableau data Implementation, Exercises, Projects and Assignments<br>
+
+Learnings - <br>
+Created the Dashboards using Tableau Piblic <br>
+Ensure appropriate and uniform color scheme, fonts and other formatting <br>
+Configured all the drill through options on Menu <br>
+Ensuring proper navigation from and to the dashboard <br>
 
 
 Business Requirements - <br>

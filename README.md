@@ -23,3 +23,6 @@ S8: Drill through from S1 and show Average Sale per State. Show states with sale
 S9: Drill through from S3 and show month-wise Sale. Show month on month % change in sale and profit in tooltip along with profit.
 
 S10: Drill through from S8 and show Top n products by Sales
+
+
+Tableau public Link of the project - https://public.tableau.com/app/profile/pooja.kanojia/viz/AU18B1008_Project_CoffeeChain/Dashboard1?publish=yes

@@ -7,9 +7,10 @@ Created the Dashboards using Tableau Piblic <br>
 Ensure appropriate and uniform color scheme, fonts and other formatting <br>
 Configured all the drill through options on Menu <br>
 Ensuring proper navigation from and to the dashboard <br>
+<br>
 
 
-Business Requirements - <br>
+Business Requirements given - <br>
 S1: Market-wise Sales for Selected Year – Show % of Sale to Total Sale in tooltip. Show divergent color based on profit.
 
 S2: Market Size-wise top 5 States by Sales Selected Year – Show % of Margin to Sales and %  Profit to Sales

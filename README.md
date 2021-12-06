@@ -3,7 +3,7 @@ Data Analytics Foundation<br>
 Contains Tableau data Implementation, Exercises, Projects and Assignments
 
 
-Business Requirements - 
+Business Requirements - <br>
 S1: Market-wise Sales for Selected Year – Show % of Sale to Total Sale in tooltip. Show divergent color based on profit.
 
 S2: Market Size-wise top 5 States by Sales Selected Year – Show % of Margin to Sales and %  Profit to Sales
